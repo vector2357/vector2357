@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="left">- 👨‍💻 Sou apaixonado por resolver problemas complexos através de soluções simples e eficazes.<br>- 🧠 Tenho um forte raciocínio lógico e adoro desafios que me fazem pensar de maneiras diferentes.<br>- 📚 Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades através de estudos constantes.<br>- 💡 Acredito que o conhecimento deve ser compartilhado e estou sempre disposto a ajudar e colaborar com outros desenvolvedores.</p>
 
-<!--
-**vector2357/vector2357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
