@@ -175,11 +175,6 @@ Disciplinas e áreas que mais gosto:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vector2357&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=22D3EE&text_color=c9d1d9&cache_seconds=86400" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vector2357&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&cache_seconds=86400" alt="top languages"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vector2357&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=22D3EE&fire=22D3EE&currStreakLabel=8B5CF6" alt="streak" width="600"/>
 
 </div>
